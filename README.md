@@ -3,6 +3,8 @@
 [![npm (scoped)](https://img.shields.io/npm/v/srt-convert-json.svg)](https://www.npmjs.com/package/srt-convert-json)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/srt-convert-json.svg)](https://www.npmjs.com/package/srt-convert-json)
 
+![Preview Image](./mock/srt2json.png)
+
 This npm package converts a SRT SubRip File (Subtitle File) into JSON format.
 
 ## Package Install Instructions
